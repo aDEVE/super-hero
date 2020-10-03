@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Home",
+    "path": "/Home",
+    "component": "C:\\\\Users\\\\Deve\\\\Documents\\\\workspace\\\\super-project\\\\nuxt\\\\pages\\\\Home.js",
+    "chunkName": "pages/Home",
+    "_name": "_1fa9c8d6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Deve\\\\Documents\\\\workspace\\\\super-project\\\\nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8da8d1b0"
+  }
+]
